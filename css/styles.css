@@ -361,10 +361,7 @@ body {
   
 }
 
-/*.social-icons li:hover {
-  background: rgba(64, 75, 191, 1);
-  
-}*/
+
 .social-icons li :hover{
  --color2:rgba(64, 75, 191, 1);
 }
@@ -619,7 +616,7 @@ ul {
   opacity: 0px;
 }
 .social-icons-footer li {
-  /*background-color: rgba(77, 90, 229, 1);*/
+  
   border-radius: 50%;
 
   display: inline-block;
